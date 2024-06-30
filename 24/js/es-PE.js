@@ -1,3 +1,4 @@
+
 var lang_nombreRequerido = 'Ingrese nombre';
 var lang_informandoAsistencia = 'Informando asistencia';
 var lang_confirmarAsistencia = 'Enviar';
@@ -15,7 +16,7 @@ var lang_enviandoSugerencia = 'Enviando sugerencia';
 var lang_sugerirCancion = 'Sugerir Canción';
 
 
-var lang_caracteresNombreSugerencia = 'El nombre no debe superar 20 caracteres';
+var lang_caracteresNombreSugerencia = 'El nombre no debe superar 30 caracteres';
 var lang_caracteresCancionSugerencia = 'El título / autor no debe superar 50 caracteres';
 var lang_caracteresLinkSugerencia = 'El link no debe superar 250 caracteres';
 
@@ -23,13 +24,13 @@ var lang_caracteresLinkSugerencia = 'El link no debe superar 250 caracteres';
 var lang_sugerirCancionMsjExito_1 = 'Sugerencia enviada';
 var lang_sugerirCancionMsjExito_2 = 'Tu sugerencia de canción se ha agregado a la lista';
 
-var lang_titleModalAsistenciaCeremonia = '¿Asistes a la ceremonia?';
-var lang_titleModalAsistenciaFiesta = '¿Asistes a la celebración?';
+var lang_titleModalAsistenciaCeremonia = '¿Asistes a la boda civil?';
+var lang_titleModalAsistenciaFiesta = '¿Asistes a la recepción?';
 
-var lang_titleModalMapaFiesta = 'Cómo llegar a la celebración';
-var lang_titleModalMapaCeremonia = 'Cómo llegar a la ceremonia';
+var lang_titleModalMapaFiesta = 'Cómo llegar a la recepción';
+var lang_titleModalMapaCeremonia = 'Cómo llegar a la boda civil';
 
-var lang_placeholderFiesta = "Indica algún dato importante. \n Ej: Soy vegano, vegetariano, etc.";
+var lang_placeholderFiesta = "Indica algún dato importante. \n Ej: Soy alérgico a cierto alimento, etc.";
 var lang_placeholderCeremonia = "Ingrese algún dato importante";
 
 var lang_textoCopiado = '¡CBU Copiado!';
